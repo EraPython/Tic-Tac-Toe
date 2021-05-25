@@ -2,7 +2,7 @@ Welcome to the [GitHub](https://github.com/PapaPythonAndWeb/Tic-Tac-Toe/) page o
 
 ```markdown
 Requirements:
-<li> A computer with python version >= 37 installed in it.
+1. A computer with python version >= 37 installed in it.
 
 You can even use [Repl.it](replit.com) and import the github project by pasting in the link [GitHub](https://github.com/PapaPythonAndWeb/Tic-Tac-Toe)
 
